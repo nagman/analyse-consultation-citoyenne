@@ -1,0 +1,315 @@
+{
+	"sexes": { "hommes": 71, "femmes": 26, "nr": 3 },
+	"consommateurs": { "oui": 64, "non": 28, "nr": 8 },
+	"ages": {
+		"-18": 2,
+		"18-29": 45,
+		"30-39": 26,
+		"40-49": 14,
+		"50-64": 9,
+		"65-74": 2,
+		"75+": 0,
+		"nr": 0
+	},
+	"fini": { "pas fini": 0, "fini": 100 },
+	"types": { "organisation": 0, "individu": 100, "nr": 0 },
+	"choix": {
+		"légalisation": 81,
+		"dépénalisation": 14,
+		"renforcement": 5,
+		"maintien": 1,
+		"nr": 0
+	},
+	"choixBref": { "pour": 94, "contre": 5, "nr": 0 },
+	"choixParSexe": {
+		"hommes": { "pour": 71, "contre": 61 },
+		"femmes": { "pour": 25, "contre": 36 }
+	},
+	"choixParTrancheAge": {
+		"pour": { "-40": 70, "40-64": 22, "65+": 2 },
+		"contre": { "-40": 3, "40-64": 2, "65+": 1 }
+	},
+	"consommateurs18_64": { "total": 65, "hommes": 69, "femmes": 56 },
+	"consommateurs18_29": { "total": 71, "hommes": 74, "femmes": 64 },
+	"regions": [
+		{ "Métropole:Paris": 10 },
+		{ "Métropole:Rhône": 4 },
+		{ "Métropole:Nord": 4 }
+	],
+	"avisSelonConsommation": {
+		"consommateurs": { "pour": 99, "contre": 1 },
+		"nonConsommateurs": { "pour": 83, "contre": 17 },
+		"nrConsommateurs": { "pour": 95, "contre": 2 }
+	},
+	"repressionLimiteAmpleur": { "non": 92, "oui": 4, "nr": 4 },
+	"dispositifLutteContreTrafics": { "non": 92, "oui": 3, "nr": 6 },
+	"comparaisonAlcool": [
+		{ "Moins graves que ceux liés à la consommation d’alcool": 62 },
+		{ "Équivalents à ceux liés à la consommation d’alcool": 33 },
+		{ "Plus graves que ceux liés à la consommation d’alcool": 5 },
+		{ "": 0 }
+	],
+	"comparaisonTabac": [
+		{ "Moins graves que ceux liés à la consommation de tabac": 47 },
+		{ "Équivalents à ceux liés à la consommation de tabac": 38 },
+		{ "Plus graves que ceux liés à la consommation de tabac": 14 },
+		{ "": 0 }
+	],
+	"pourquoiAssouplir": [
+		[
+			{
+				"Cela permettra de lutter contre le trafic de cannabis, en « asséchant » le marché illégal": 35
+			},
+			{
+				"Cela permettra de concentrer les moyens sur la prévention, en particulier pour éviter la consommation de cannabis par les – de 25 ans": 25
+			},
+			{
+				"Cela permettra aux forces de l’ordre de se consacrer à d’autres missions": 22
+			},
+			{ "Cela permettra de dégager des recettes fiscales": 14 },
+			{ "": 10 }
+		],
+		[
+			{
+				"Cela permettra aux forces de l’ordre de se consacrer à d’autres missions": 25
+			},
+			{ "Cela permettra de dégager des recettes fiscales": 24 },
+			{
+				"Cela permettra de concentrer les moyens sur la prévention, en particulier pour éviter la consommation de cannabis par les – de 25 ans": 23
+			},
+			{
+				"Cela permettra de lutter contre le trafic de cannabis, en « asséchant » le marché illégal": 22
+			},
+			{ "": 12 }
+		],
+		[
+			{
+				"Cela permettra aux forces de l’ordre de se consacrer à d’autres missions": 26
+			},
+			{ "Cela permettra de dégager des recettes fiscales": 24 },
+			{
+				"Cela permettra de concentrer les moyens sur la prévention, en particulier pour éviter la consommation de cannabis par les – de 25 ans": 20
+			},
+			{ "": 19 },
+			{
+				"Cela permettra de lutter contre le trafic de cannabis, en « asséchant » le marché illégal": 17
+			}
+		],
+		[
+			{ "": 28 },
+			{ "Cela permettra de dégager des recettes fiscales": 26 },
+			{
+				"Cela permettra de concentrer les moyens sur la prévention, en particulier pour éviter la consommation de cannabis par les – de 25 ans": 19
+			},
+			{
+				"Cela permettra aux forces de l’ordre de se consacrer à d’autres missions": 17
+			},
+			{
+				"Cela permettra de lutter contre le trafic de cannabis, en « asséchant » le marché illégal": 16
+			}
+		]
+	],
+	"commentVendre": [
+		{ "En vente dans des boutiques spécialisées": 53 },
+		{ "": 21 },
+		{ "En vente régulée sur le modèle de l’alcool": 21 },
+		{ "En vente dans les bureaux de tabac": 7 },
+		{ "En vente libre": 3 },
+		{ "Autre": 1 }
+	],
+	"quoiPayerAvecTaxes": [
+		[
+			{
+				"La prévention en matière de consommation de cannabis, en particulier des mineurs": 33
+			},
+			{ "": 23 },
+			{ "La lutte contre les addictions": 21 },
+			{ "La réduction de la dette": 12 },
+			{ "La baisse des impôts": 9 },
+			{ "Le renforcement des politiques de la ville": 9 }
+		],
+		[
+			{ "La lutte contre les addictions": 28 },
+			{ "": 26 },
+			{
+				"La prévention en matière de consommation de cannabis, en particulier des mineurs": 21
+			},
+			{ "La réduction de la dette": 11 },
+			{ "La baisse des impôts": 11 },
+			{ "Le renforcement des politiques de la ville": 10 }
+		],
+		[
+			{ "": 34 },
+			{ "Le renforcement des politiques de la ville": 22 },
+			{ "La réduction de la dette": 13 },
+			{ "La baisse des impôts": 13 },
+			{ "La lutte contre les addictions": 13 },
+			{
+				"La prévention en matière de consommation de cannabis, en particulier des mineurs": 12
+			}
+		],
+		[
+			{ "": 42 },
+			{ "La baisse des impôts": 18 },
+			{ "La réduction de la dette": 17 },
+			{ "Le renforcement des politiques de la ville": 12 },
+			{ "La lutte contre les addictions": 9 },
+			{
+				"La prévention en matière de consommation de cannabis, en particulier des mineurs": 7
+			}
+		],
+		[
+			{ "": 47 },
+			{ "La baisse des impôts": 17 },
+			{ "Le renforcement des politiques de la ville": 16 },
+			{ "La réduction de la dette": 15 },
+			{ "La lutte contre les addictions": 5 },
+			{
+				"La prévention en matière de consommation de cannabis, en particulier des mineurs": 5
+			}
+		]
+	],
+	"pourCulturePerso": { "oui": 86, "non": 8, "nr": 12 },
+	"pourquoiDurcir": [
+		[
+			{ "": 1757 },
+			{
+				"Les risques pour la santé des consommateurs (risques psychiatriques, tabac mêlé au cannabis…)": 34
+			},
+			{
+				"Les risques de déscolarisation des plus jeunes et de développement de pathologies psychiatriques": 16
+			},
+			{
+				"La dangerosité des trafics (règlement de compte, violences, etc.)": 14
+			},
+			{
+				"Les risques pour la sécurité routière, en cas de conduite après consommation de cannabis": 11
+			},
+			{ "Le symbole : un renoncement de l’État": 8 },
+			{
+				"Le risque d’un « premier pas » des consommateurs vers des drogues dites « dures »": 7
+			},
+			{ "Les risques de dépendance des consommateurs": 6 }
+		],
+		[
+			{ "": 1757 },
+			{
+				"Les risques de déscolarisation des plus jeunes et de développement de pathologies psychiatriques": 19
+			},
+			{
+				"Les risques pour la santé des consommateurs (risques psychiatriques, tabac mêlé au cannabis…)": 17
+			},
+			{
+				"Les risques pour la sécurité routière, en cas de conduite après consommation de cannabis": 15
+			},
+			{
+				"La dangerosité des trafics (règlement de compte, violences, etc.)": 14
+			},
+			{ "Les risques de dépendance des consommateurs": 12 },
+			{
+				"Le risque d’un « premier pas » des consommateurs vers des drogues dites « dures »": 12
+			},
+			{ "Le symbole : un renoncement de l’État": 6 }
+		],
+		[
+			{ "": 1759 },
+			{
+				"Les risques pour la sécurité routière, en cas de conduite après consommation de cannabis": 18
+			},
+			{
+				"Les risques de déscolarisation des plus jeunes et de développement de pathologies psychiatriques": 15
+			},
+			{
+				"Le risque d’un « premier pas » des consommateurs vers des drogues dites « dures »": 15
+			},
+			{ "Les risques de dépendance des consommateurs": 14 },
+			{
+				"La dangerosité des trafics (règlement de compte, violences, etc.)": 12
+			},
+			{
+				"Les risques pour la santé des consommateurs (risques psychiatriques, tabac mêlé au cannabis…)": 12
+			},
+			{ "Le symbole : un renoncement de l’État": 8 }
+		],
+		[
+			{ "": 1765 },
+			{
+				"Les risques pour la sécurité routière, en cas de conduite après consommation de cannabis": 15
+			},
+			{
+				"Le risque d’un « premier pas » des consommateurs vers des drogues dites « dures »": 14
+			},
+			{ "Les risques de dépendance des consommateurs": 14 },
+			{
+				"Les risques de déscolarisation des plus jeunes et de développement de pathologies psychiatriques": 13
+			},
+			{
+				"La dangerosité des trafics (règlement de compte, violences, etc.)": 12
+			},
+			{
+				"Les risques pour la santé des consommateurs (risques psychiatriques, tabac mêlé au cannabis…)": 9
+			},
+			{ "Le symbole : un renoncement de l’État": 9 }
+		],
+		[
+			{ "": 1774 },
+			{
+				"Le risque d’un « premier pas » des consommateurs vers des drogues dites « dures »": 14
+			},
+			{ "Les risques de dépendance des consommateurs": 14 },
+			{
+				"Les risques pour la sécurité routière, en cas de conduite après consommation de cannabis": 13
+			},
+			{
+				"La dangerosité des trafics (règlement de compte, violences, etc.)": 11
+			},
+			{
+				"Les risques de déscolarisation des plus jeunes et de développement de pathologies psychiatriques": 11
+			},
+			{ "Le symbole : un renoncement de l’État": 8 },
+			{
+				"Les risques pour la santé des consommateurs (risques psychiatriques, tabac mêlé au cannabis…)": 7
+			}
+		],
+		[
+			{ "": 1781 },
+			{
+				"La dangerosité des trafics (règlement de compte, violences, etc.)": 14
+			},
+			{ "Les risques de dépendance des consommateurs": 13 },
+			{
+				"Le risque d’un « premier pas » des consommateurs vers des drogues dites « dures »": 12
+			},
+			{
+				"Les risques pour la sécurité routière, en cas de conduite après consommation de cannabis": 10
+			},
+			{ "Le symbole : un renoncement de l’État": 9 },
+			{
+				"Les risques de déscolarisation des plus jeunes et de développement de pathologies psychiatriques": 8
+			},
+			{
+				"Les risques pour la santé des consommateurs (risques psychiatriques, tabac mêlé au cannabis…)": 6
+			}
+		],
+		[
+			{ "": 1789 },
+			{ "Le symbole : un renoncement de l’État": 27 },
+			{ "Les risques de dépendance des consommateurs": 9 },
+			{
+				"La dangerosité des trafics (règlement de compte, violences, etc.)": 7
+			},
+			{
+				"Le risque d’un « premier pas » des consommateurs vers des drogues dites « dures »": 7
+			},
+			{
+				"Les risques pour la sécurité routière, en cas de conduite après consommation de cannabis": 5
+			},
+			{
+				"Les risques de déscolarisation des plus jeunes et de développement de pathologies psychiatriques": 4
+			},
+			{
+				"Les risques pour la santé des consommateurs (risques psychiatriques, tabac mêlé au cannabis…)": 4
+			}
+		]
+	]
+}
